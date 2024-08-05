@@ -5,7 +5,7 @@
 Проект достойный внимания
 ## Проект
 
-- **Asteroids** - Игра на canvas, React, node.js. Можно играть оффлайн
+- **Asteroids** - https://github.com/lyolishe/Asteroids/ Игра на canvas, React, node.js. Можно играть оффлайн
 
 
 ## Контакты
